@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QWQER\n"
+"POT-Creation-Date: 2023-08-28 15:56+0300\n"
+"PO-Revision-Date: 2023-08-28 15:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: Notfar\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .idea\n"
+
+#: inc/createOrder.php:108
+msgid "Delivery is not possible!"
+msgstr "Доставка невозможна!"
+
+#: inc/settings.php:19 inc/settings.php:20
+msgid "QWQER Shipping Method"
+msgstr "Способ доставки QWQER"
+
+#: inc/settings.php:62
+msgid "Method Title"
+msgstr "Название метода"
+
+#: inc/settings.php:64
+msgid "QWQER Shipping"
+msgstr "Доставка QWQER"
+
+#: inc/settings.php:67
+msgid "Trading-Point ID"
+msgstr "Идентификатор торговой точки"
+
+#: inc/settings.php:71
+msgid "API token"
+msgstr "API-токен"
+
+#: inc/settings.php:75
+msgid "Shop phone number"
+msgstr "Номер телефона магазина"
+
+#: inc/settings.php:79
+msgid "Select category"
+msgstr "Выберите категорию"
+
+#: inc/settings.php:80
+msgid "Category to which your shop`s products belong"
+msgstr "Категория, к которой относятся товары вашего магазина"
+
+#: inc/settings.php:84
+msgid "Other"
+msgstr "Другое"
+
+#: inc/settings.php:85
+msgid "Flowers"
+msgstr "Цветы"
+
+#: inc/settings.php:86
+msgid "Food"
+msgstr "Продукты питания"
+
+#: inc/settings.php:87
+msgid "Electronics"
+msgstr "Электроника"
+
+#: inc/settings.php:88
+msgid "Cake"
+msgstr "Торты"
+
+#: inc/settings.php:89
+msgid "Present"
+msgstr "Презенты"
+
+#: inc/settings.php:90
+msgid "Clothes"
+msgstr "Одежда"
+
+#: inc/settings.php:91
+msgid "Document"
+msgstr "Документ"
+
+#: inc/settings.php:92
+msgid "Jewelry"
+msgstr "Ювелирные изделия"
+
+#: inc/settings.php:199
+msgid "One or more of the destinations is out of orgin`s delivery area!"
+msgstr ""
+"Один или несколько пунктов назначения находятся за пределами зоны доставки "
+"отправления!"
+
+#: inc/settings.php:216
+#, php-format
+msgid "%s. Please fill in the address and city field"
+msgstr "%s. Пожалуйста, укажите адрес и город!"
+
+#: qwqer.php:46
+msgid "Important! Install and activate the plugin \"Woocommerce\""
+msgstr "Важно! Установите и активируйте плагин \"Woocommerce\""
+
+#: qwqer.php:54
+msgid "Important! Address and city fields in woocommerce settings are required"
+msgstr ""
+"Важно! Поля \"Адрес\" и \"Город\" в настройках woocommerce являются "
+"обязательными"

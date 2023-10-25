@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QWQER\n"
+"POT-Creation-Date: 2023-08-28 16:05+0300\n"
+"PO-Revision-Date: 2023-08-28 16:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: Notfar\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .idea\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: inc/createOrder.php:108
+msgid "Delivery is not possible!"
+msgstr "Delivery is not possible!"
+
+#: inc/settings.php:19 inc/settings.php:20
+msgid "QWQER Shipping Method"
+msgstr "QWQER Shipping Method"
+
+#: inc/settings.php:62
+msgid "Method Title"
+msgstr "Method Title"
+
+#: inc/settings.php:64
+msgid "QWQER Shipping"
+msgstr "QWQER Shipping"
+
+#: inc/settings.php:67
+msgid "Trading-Point ID"
+msgstr "Trading-Point ID"
+
+#: inc/settings.php:71
+msgid "API token"
+msgstr "API token"
+
+#: inc/settings.php:75
+msgid "Shop phone number"
+msgstr "Shop phone number"
+
+#: inc/settings.php:79
+msgid "Select category"
+msgstr "Select category"
+
+#: inc/settings.php:80
+msgid "Category to which your shop`s products belong"
+msgstr "Category to which your shop`s products belong"
+
+#: inc/settings.php:84
+msgid "Other"
+msgstr "Other"
+
+#: inc/settings.php:85
+msgid "Flowers"
+msgstr "Flowers"
+
+#: inc/settings.php:86
+msgid "Food"
+msgstr "Food"
+
+#: inc/settings.php:87
+msgid "Electronics"
+msgstr "Electronics"
+
+#: inc/settings.php:88
+msgid "Cake"
+msgstr "Cake"
+
+#: inc/settings.php:89
+msgid "Present"
+msgstr "Present"
+
+#: inc/settings.php:90
+msgid "Clothes"
+msgstr "Clothes"
+
+#: inc/settings.php:91
+msgid "Document"
+msgstr "Document"
+
+#: inc/settings.php:92
+msgid "Jewelry"
+msgstr "Jewelry"
+
+#: inc/settings.php:199
+msgid "One or more of the destinations is out of orgin`s delivery area!"
+msgstr "One or more of the destinations is out of orgin`s delivery area!"
+
+#: inc/settings.php:216
+#, php-format
+msgid "%s. Please fill in the address and city field"
+msgstr "%s. Please fill in the address and city field"
+
+#: qwqer.php:46
+msgid "Important! Install and activate the plugin \"Woocommerce\""
+msgstr "Important! Install and activate the plugin \"Woocommerce\""
+
+#: qwqer.php:54
+msgid "Important! Address and city fields in woocommerce settings are required"
+msgstr "Important! Address and city fields in woocommerce settings are required"

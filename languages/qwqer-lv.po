@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QWQER\n"
+"POT-Creation-Date: 2023-08-28 16:10+0300\n"
+"PO-Revision-Date: 2023-09-20 12:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: Notfar\n"
+"Language: lv_LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : "
+"n%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .idea\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: inc/createOrder.php:108
+msgid "Delivery is not possible!"
+msgstr "Piegāde nav iespējama!"
+
+#: inc/settings.php:19 inc/settings.php:20
+msgid "QWQER Shipping Method"
+msgstr "QWQER Piegādes Metode"
+
+#: inc/settings.php:62
+msgid "Method Title"
+msgstr "Metodes nosaukums"
+
+#: inc/settings.php:64
+msgid "QWQER Shipping"
+msgstr "QWQER Piegāde"
+
+#: inc/settings.php:67
+msgid "Trading-Point ID"
+msgstr "Tirdzniecības Punkta ID"
+
+#: inc/settings.php:71
+msgid "API token"
+msgstr "API atslēga"
+
+#: inc/settings.php:75
+msgid "Shop phone number"
+msgstr "Veikala telefona numurs"
+
+#: inc/settings.php:79
+msgid "Select category"
+msgstr "Izvēlieties kategoriju"
+
+#: inc/settings.php:80
+msgid "Category to which your shop`s products belong"
+msgstr "Kategorija, kurā ietilpst jūsu veikala produkti"
+
+#: inc/settings.php:84
+msgid "Other"
+msgstr "Cits"
+
+#: inc/settings.php:85
+msgid "Flowers"
+msgstr "Ziedi"
+
+#: inc/settings.php:86
+msgid "Food"
+msgstr "Ēdiens"
+
+#: inc/settings.php:87
+msgid "Electronics"
+msgstr "Elektronika"
+
+#: inc/settings.php:88
+msgid "Cake"
+msgstr "Kūka"
+
+#: inc/settings.php:89
+msgid "Present"
+msgstr "Dāvana"
+
+#: inc/settings.php:90
+msgid "Clothes"
+msgstr "Apģērbs"
+
+#: inc/settings.php:91
+msgid "Document"
+msgstr "Dokuments"
+
+#: inc/settings.php:92
+msgid "Jewelry"
+msgstr "Rotaslietas"
+
+#: inc/settings.php:199
+msgid "One or more of the destinations is out of orgin`s delivery area!"
+msgstr "Viens vai vairāki galamērķi atrodas ārpus piegādes zonas!"
+
+#: inc/settings.php:216
+#, php-format
+msgid "%s. Please fill in the address and city field"
+msgstr "%s. Lūdzu, norādiet adresi un pilsētu"
+
+#: qwqer.php:46
+msgid "Important! Install and activate the plugin \"Woocommerce\""
+msgstr "Svarbu! Įdiekite ir įjunkite įskiepį \"Woocommerce\""
+
+#: qwqer.php:54
+msgid "Important! Address and city fields in woocommerce settings are required"
+msgstr "Svarbu! Adreso ir miesto laukai woocommerce nustatymuose yra privalomi"
